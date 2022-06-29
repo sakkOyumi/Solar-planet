@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "exam_images",
+			"path": "../../../Users/Panhasak/Downloads/exam_images"
+		},
+		{
+			"name": "Exam",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exam",
+		"liveServer.settings.port": 5502
+	}
+}
